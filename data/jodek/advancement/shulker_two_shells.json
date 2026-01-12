@@ -1,0 +1,56 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:shulker_shell"
+        },
+        "title": "Shulkers Drop Two Shells        ",
+        "description": [
+            "",
+            {
+                "text": "Shulkers drop 2 shells, instead of 1\n",
+                "color": "white"
+            },
+            {
+                "text": "\n",
+                "color": "yellow"
+            },
+            {
+                "text": "Datapack version: ",
+                "color": "dark_green"
+            },
+            {
+                "text": "v2.3.2",
+                "color": "green"
+            },
+            {
+                "text": "\n",
+                "color": "green"
+            },
+            {
+                "text": "Game version: ",
+                "color": "dark_green"
+            },
+            {
+                "text": "1.21.6+",
+                "color": "green"
+            },
+            {
+                "text": "\n",
+                "color": "green"
+            },
+            {
+                "text": "modrinth.com/datapack/two-shulker-shells-drop",
+                "color": "dark_purple"
+            }
+        ],
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "jodek:mobs",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
