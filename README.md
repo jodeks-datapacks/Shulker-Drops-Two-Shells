@@ -1,25 +1,20 @@
-# Shulkers Drop Two Shells
-
-<div style="display: flex; gap: 20px;">
-<a href="https://ko-fi.com/H2H011LYHJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
+<div align="center">
   
-<a href="https://github.com/sponsors/Jodekq" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Jodek-green?style=for-the-badge&logo=github&logoWidth=20" alt="Sponsor @Jodek" />
-</a>
+![minecraft datapack shulkers drop two shells shulker shell mod minecraft](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/shulkersdroptwoshellsv1.png)
+
 </div>
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
-</picture>
- 
-Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or create an issue on github_
+<div align="center">
 
----
+[![jodeks discord - discord badge - pixel badge - pixel discord badge - jodeks datapacks - datapacks discord](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![matrix - datapacks matrix - jodeks datapacks matrix](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![armor stand arms minecraft datapack github issues](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/GH_Issues.png)](https://github.com/jodeks-datapacks/Shulker-Drops-Two-Shells/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi - jodek kofi - minecraft datapack kofi donation](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek donation datapacks minecraft](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/GH_Sponsor_Pink.png)](https://github.com/sponsors/Jodekq)
+
+</div>
 
 ### Shulkers can drop 2 shells instead of only 1
-
----
 
 ## Guides
 
