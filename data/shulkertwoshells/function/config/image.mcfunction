@@ -16,7 +16,7 @@ function shulkertwoshells:image/set_image_data {\
     "Shulkers Drop Two Shells",\
     {text: "Shulkers drop 2 shells, instead of 1", color: "#aaaaaa"},\
     "",\
-    [{text: "Datapack version: ", color: "#00a800"}, {text: "v2.3.2", color: "#54fc54"}],\
+    [{text: "Datapack version: ", color: "#00a800"}, {text: "v2.3.3", color: "#54fc54"}],\
     [{text: "Game version: ", color: "#00a800"}, {text: "1.21.6+", color: "#54fc54"}],\
     "",\
     [{text: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
