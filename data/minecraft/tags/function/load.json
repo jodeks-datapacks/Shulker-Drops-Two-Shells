@@ -1,6 +1,6 @@
 {
   "values": [
-  "shulkertwoshells:app/setup",
-  "shulkertwoshells:app/load_message"
-]
+    "shulkers_drop_two_shells:app/setup",
+    "shulkers_drop_two_shells:app/load_message"
+  ]
 }

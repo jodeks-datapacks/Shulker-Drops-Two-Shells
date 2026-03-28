@@ -1,29 +1,41 @@
 {
   "pack": {
-		"min_format": [80,0],
-		"max_format": [999,0],
+    "min_format": [80, 0],
+    "max_format": [999, 0],
 
-		"pack_format": 80,
-		"supported_formats": [80,999],
+    "pack_format": 80,
+    "supported_formats": [80, 999],
     "description": [
       {
-        "text": "\"Shulkers Drop Two Shells\" (shulkertwoshells)"
+        "text": "\"Shulkers Drop Two Shells\" (shulkers_drop_two_shells)"
       },
       "\n",
       {
-        "text": "Shulkers drop 2 shells, instead of 1",
+        "translate": "shulkers_drop_two_shells.description",
+        "fallback": "Shulkers drop 2 shells, instead of 1",
         "color": "#aaaaaa"
       },
       "\n\n",
       {
-        "text": "Version "
+        "translate": "jodek.version",
+        "fallback": "Version"
       },
       {
-        "text": "2.3.3",
+        "text": " "
+      },
+      {
+        "text": "2.3.4",
         "color": "#55ff55"
       },
       {
-        "text": " for Minecraft "
+        "text": " "
+      },
+      {
+        "translate": "jodek.for_minecraft",
+        "fallback": "for Minecraft"
+      },
+      {
+        "text": " "
       },
       {
         "text": "1.21.6+",
@@ -31,7 +43,11 @@
       },
       "\n",
       {
-        "text": "by "
+        "translate": "jodek.by",
+        "fallback": "by"
+      },
+      {
+        "text": " "
       },
       {
         "text": "Jodek",

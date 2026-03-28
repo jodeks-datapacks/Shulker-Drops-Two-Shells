@@ -1,0 +1,2 @@
+data modify storage shulkers_drop_two_shells:image data.current.pixel_color set from storage shulkers_drop_two_shells:image data.background_color
+function shulkers_drop_two_shells:image/process/build_pixel with storage shulkers_drop_two_shells:image data.current
