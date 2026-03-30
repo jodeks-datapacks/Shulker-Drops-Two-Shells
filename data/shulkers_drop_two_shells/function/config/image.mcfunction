@@ -17,7 +17,6 @@ function shulkers_drop_two_shells:image/set_image_data {\
     {translate: "shulkers_drop_two_shells.description", fallback: "Shulkers drop 2 shells, instead of 1"},\
     "",\
     [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v2.3.4", color: "#54fc54"}],\
-    [{translate: "jodek.game_version", fallback: "Game version: ", color: "#00a800"}, {text: "1.21.6+", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/two-shulker-shells-drop", color: "#a800a8"},\
